@@ -108,7 +108,8 @@ h2 {
 .tiles-section-container {
   display: grid;
   justify-items: center;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  /* padding: 5px; */
   column-gap: 9px; 
   gap: 40px;
   height: auto;
@@ -116,10 +117,10 @@ h2 {
   margin-left: 10%;
   width: auto;
   /* border: solid red 2px; */
-  
 }
 
 .tile {
+  /* margin: 50px; */
   height: 375px;
   width: 275px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
