@@ -135,6 +135,21 @@ h2 {
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tile-views {
+  display: flex;
+  flex-direction: column;
+  color:#302c2c;
+  align-items: center;
+  margin: 2%;
+  font-size: larger;
+}
+
+.tile-views-number {
+  font-size: 3rem;
 }
 
 .tile-name {
