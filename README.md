@@ -5,4 +5,5 @@ This individual static comp challenge was designed to develop our HTML/CSS muscl
 ![static-comp](https://user-images.githubusercontent.com/110144802/204417737-4eb5a8db-11f0-4e23-8cbe-0ec0ea4837cb.gif)
 
 ## The design that we were to recreate for the challenge:
-![image](https://user-images.githubusercontent.com/110144802/204416896-c4ff127d-7b31-4297-a8a5-3f4c6d713c38.png)
+
+<img width="721" src="https://user-images.githubusercontent.com/110144802/204416896-c4ff127d-7b31-4297-a8a5-3f4c6d713c38.png">
